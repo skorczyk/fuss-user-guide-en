@@ -1,22 +1,41 @@
-Welcome to Lumache's documentation!
-===================================
+FUSS – User Guide
+=====================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+.. figure:: images/fuss.png
+      :width: 100px
+      :align: right
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+This manual guides the user through the use of the live/desktop/client version of the GNU/Linux distribution `FUSS <https://fuss.bz.it>`_ in the current version 9, which is based on Debian 9 “stretch”.
 
 .. toctree::
+   :maxdepth: 2
 
-   usage
-   api
+   The-desktop
+   operazioni-sul-desktop
+   visualizzare-file-nascosti
+   impostazioni-linguistiche
+   dispositivi-bluetooth
+   ridimensionare-molte-immagini
+   gestione-credenziali
+   problemi-vari
+
+Contribuisci
+""""""""""""
+
+Chiunque puÃ² contribuire a migliorare questa documentazione che Ã¨ scritta in `reStructuredText <http://www.sphinx-doc.org/rest.html>`_.
+
+Supporto
+""""""""
+
+Se ti serve aiuto, scrivi una mail ad info@fuss.bz.it
+
+Licenze
+"""""""
+
+.. image:: https://img.shields.io/badge/code-GPLv3-blue.png
+    :target: https://www.gnu.org/licenses/gpl-3.0.en.html
+    :alt: Code GPLv3
+
+.. image:: https://img.shields.io/badge/documentation-CC%20BY--SA-lightgrey.png
+    :target: https://creativecommons.org/licenses/by-sa/4.0/
+    :alt: Documentation CC BY-SA
