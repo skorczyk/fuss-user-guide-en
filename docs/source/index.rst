@@ -10,16 +10,16 @@ This manual guides the user through the use of the live/desktop/client version o
 .. toctree::
    :maxdepth: 2
 
-   The-desktop
-   operazioni-sul-desktop
-   visualizzare-file-nascosti
-   impostazioni-linguistiche
-   dispositivi-bluetooth
-   ridimensionare-molte-immagini
-   gestione-credenziali
-   problemi-vari
+   the-desktop
+   desktop-operations
+   view-hidden-files
+   language-settings
+   bluetooth-devices
+   resize-multiple-images
+   manage-credentials
+   various-issues
 
-Contribuisci
+Contribution
 """"""""""""
 
 Chiunque puÃ² contribuire a migliorare questa documentazione che Ã¨ scritta in `reStructuredText <http://www.sphinx-doc.org/rest.html>`_.
