@@ -22,14 +22,14 @@ This manual guides the user through the use of the live/desktop/client version o
 Contribution
 """"""""""""
 
-Chiunque puÃ² contribuire a migliorare questa documentazione che Ã¨ scritta in `reStructuredText <http://www.sphinx-doc.org/rest.html>`_.
+Anyone can contribute to improving this documentation which is written in `reStructuredText <http://www.sphinx-doc.org/rest.html>`_.
 
-Supporto
+Support
 """"""""
 
-Se ti serve aiuto, scrivi una mail ad info@fuss.bz.it
+If you need help, write an email to info@fuss.bz.it
 
-Licenze
+Licences
 """""""
 
 .. image:: https://img.shields.io/badge/code-GPLv3-blue.png
